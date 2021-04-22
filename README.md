@@ -3,9 +3,8 @@
 Video Chat app created using webRTC and socket.io
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. 
 
-In this tutorial, i built a React Video Chat Application using WebRTC.
+In this, i built a React Video Chat Application using WebRTC.
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
