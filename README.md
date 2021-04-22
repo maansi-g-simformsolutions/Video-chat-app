@@ -1,6 +1,6 @@
 # Realtime Chat Application
 
-![Video Chat]
+Video Chat app created using webRTC and socket.io
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
